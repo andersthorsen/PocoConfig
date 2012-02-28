@@ -1,0 +1,14 @@
+obj/
+bin/
+_ReSharper.*/
+*.ReSharper.*
+*.dll
+*.pdb
+*.suo
+Thumbs.db
+*.csproj.user
+*.vs10x
+*.TeamCity.user
+!*/ThirdParty/*
+!*/Third Party/*
+!*/packages/*
